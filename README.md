@@ -24,7 +24,7 @@ The Food Truck Order System is a Python application that allows customers to bro
 
 ## Usage
 
-1. Run the Python script `food_truck_order_system.py`.
+1. Run the Python script `menu.py`.
 2. Follow the on-screen instructions to navigate the menu, select items, specify quantities, and finalize the order.
 3. After finalizing the order, review the generated receipt to ensure accuracy.
 4. Total cost of the order will be displayed at the end.
@@ -46,3 +46,5 @@ Suppose a customer wants to order a pizza with pepperoni, two sodas (medium size
 
 The Food Truck Order System streamlines the ordering process for customers, providing a convenient and efficient way to place food orders. With its user-friendly interface and intuitive design, the application enhances the overall customer experience and helps food truck operators manage orders more effectively.
 
+## References
+Based on menu.py starter file provided as part of OSU-VIRT-AI-PT-02-2024-U-LOLC-MTTH (OSU AI Bootcamp).  Remaining code based on code examples provided as part of the course.
